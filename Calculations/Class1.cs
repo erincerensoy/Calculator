@@ -2,7 +2,8 @@
 
 namespace Calculations
 {
-    public class Class1
+    public interface ICalculator
     {
+        int Add(int a, int b);
     }
 }
