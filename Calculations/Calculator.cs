@@ -10,5 +10,10 @@ namespace Calculations
         {
             return a + b;
         }
+
+        public int Remove(int a, int b)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
